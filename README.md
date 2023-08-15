@@ -1,4 +1,11 @@
-### Hi there 👋
+### Work:
+Angular, Python, TF, AWS
+
+### Freetime:
+Linux, MicroPython, Ansible, Docker
+
+### Hobbies
+3D Prinitng, Micro-Controllers, Self-Hosting
 
 <!--
 **Mehyar-ALS/mehyar-ALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
