@@ -4,10 +4,10 @@ Angular/RxJS/NgRx, Python/FastAPI, TF/AWS
 ### Freetime:
 Linux, Docker, Ansible, ZFS, VPN
 
-### Hobbies
+### Hobbies:
 Self-Hosting, 3D Prinitng, Micro-Controllers
 
-### On my todo list
+### On my todo list:
 NixOS, Rust, GO, K8s, Kafka
 
 <!--
