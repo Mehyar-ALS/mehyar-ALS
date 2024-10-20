@@ -1,3 +1,4 @@
+<!--
 ### Work:
 Angular/RxJS/NgRx, Python/FastAPI, TF/AWS
 
@@ -10,7 +11,7 @@ Self-Hosting, 3D Prinitng, Micro-Controllers
 ### On my todo list:
 NixOS, Rust, GO, K8s, Kafka
 
-<!--
+
 **Mehyar-ALS/mehyar-ALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
